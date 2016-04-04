@@ -3,3 +3,23 @@ http://gold.xitu.io/entry/56ef8bfb731956005c49432c            各种资源整合
 http://gold.xitu.io/entry/56ec2a1eda2f60004c85aa8b     Android 进程常驻 - MarsDaemon 使用说明
 
 http://gold.xitu.io/entry/56f0e148816dfa005181ab22    快速了解 Android 重要机制
+
+http://gold.xitu.io/entry/56f1d480f3609a005495984f   Android 中图片大小和屏幕密度的关系讲解
+
+http://gold.xitu.io/entry/56f3e33a5bbb50004c956856  Lambda for Android - Lambda是我去年学习 RxJava 时知道的，它让代码看起来更加简洁。那什么是 lambda？lambda 是一种匿名表达式，retrolambda 使得 Android 能使用 lambda 特性。
+
+http://gold.xitu.io/entry/56f7eb386be3ff005cfcaaed    Android View 绘制 13 问 13 答 - View 的绘制流程分几步，从哪开始？哪个过程结束以后能看到 view？view 的测量宽高和实际宽高有区别吗？view 的 measureSpec 由谁决定? 顶级 view 呢？
+
+http://gold.xitu.io/entry/56f8a16a39b057005403ce55     如何学习 Android Animation？ - 如何学习 Android 动画，可以作为学习 android 动画的线路图
+
+http://gold.xitu.io/entry/56f7c441f3609a0054761658     Gradle for Android系列
+
+http://gold.xitu.io/entry/56fa379779bc440059300b4b     Android Scroll 详解
+
+http://gold.xitu.io/entry/56fb6b3a5bbb5000497bef00     理解 Java 垃圾回收机制 - 讲 GC 原理很简单，但是把 GC 原理讲的简单就不简单了。
+
+http://www.jianshu.com/p/749c4531d108     ViewAnimator源代码解析 在实现属性动画的时候,ViewAnimator能帮我们节省大量代码而且会使代码更加简洁。值得使用~
+
+https://github.com/dinuscxj/RecyclerRefreshLayout     公司代码重构基于#RecyclerView#开发的下拉刷新组件，高度定制性，超简的使用性！并基于RecyclerRefreshLayout做了Android框架封装的例子 @dinus
+
+http://gold.xitu.io/entry/56ff355171cfe4005caaa9aa     微信 Android 客户端后台保活经验分享
